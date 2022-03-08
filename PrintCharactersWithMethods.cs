@@ -1,4 +1,5 @@
 // Purpose: Print letters selected by user with "*" and " " from a list of allowed characters "EHLNTXZ"
+// The program doesn't allow characters that are not in that string and the user chooses the size of the letter (must be an odd size > 3)
 
 using System;
 using static System.Console;
